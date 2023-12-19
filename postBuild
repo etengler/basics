@@ -1,3 +1,0 @@
-# postBuild
-pip install --upgrade jupyterlab
-jupyter lab build
