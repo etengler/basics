@@ -1,1 +1,3 @@
 voila
+jupyterlab==3.0.7
+@jupyterlab/statusbar-extension==1.0.0
